@@ -1,2 +1,4 @@
-class ApplicationController < ActionController::Base
+class QuotesController < ActionController
+  def index
+  end
 end
